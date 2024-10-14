@@ -2,6 +2,8 @@
    @author Abhay Pokhriyal
 */
 
+package edu.illinois.abhayp4;
+
 /**
    Represent a spacecraft that can has a health and can explode when destroyed.
 */

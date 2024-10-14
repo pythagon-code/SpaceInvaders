@@ -2,6 +2,8 @@
    @author Abhay Pokhriyal
 */
 
+package edu.illinois.abhayp4;
+
 import java.awt.Color;
 
 /**

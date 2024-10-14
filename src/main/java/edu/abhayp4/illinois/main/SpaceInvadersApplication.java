@@ -5,12 +5,14 @@
    -@link https://cs.stanford.edu/people/eroberts/jtf/javadoc/student/acm/graphics/package-summary.html
 */
 
+package edu.illinois.abhayp4.main;
+
 import javax.swing.JOptionPane;
 
 /**
    Represent the program that runs the SpaceInvaders game.
 */
-public class SpaceInvadersTester {
+public class SpaceInvadersApplication {
    /**
       Start the SpaceInvaders game and ask to play again.
       @param args

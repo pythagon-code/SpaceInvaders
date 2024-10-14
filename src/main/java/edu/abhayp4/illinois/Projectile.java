@@ -2,6 +2,8 @@
    @author Abhay Pokhriyal
 */
 
+package edu.illinois.abhayp4;
+
 /**
    Represents a laser that moves and can do damage.
 */
