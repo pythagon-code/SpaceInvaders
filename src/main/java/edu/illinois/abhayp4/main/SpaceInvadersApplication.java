@@ -7,6 +7,8 @@
 
 package edu.illinois.abhayp4.main;
 
+import edu.illinois.abhayp4.SpaceInvaders;
+
 import javax.swing.JOptionPane;
 
 /**
