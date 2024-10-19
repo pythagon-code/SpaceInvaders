@@ -16,7 +16,7 @@ dependencies {
 }
 
 application {
-    mainClassName = 'edu.illinois.abhayp4.main.SpaceInvadersApplication'
+    mainClass = 'edu.illinois.abhayp4.main.SpaceInvadersApplication'
 }
 
 test {
