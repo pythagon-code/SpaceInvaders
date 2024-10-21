@@ -14,7 +14,7 @@ public class ScatterBeamAlien extends AlienSpacecraft {
    private static int HEALTH = 200, POINTS = 20;
    
    private static final int R = 236, G = 59, B = 179;
-   private static Color pink = new Color(R, G, B);
+   private static final Color pink = new Color(R, G, B);
    
    /**
       Construct and render a PlayerSpacecraft and display instructions for player.
